@@ -5,5 +5,5 @@ public class Customer {
     private String name;
     private String email;
 
-    // Getters and setters this is my firwt application 
+    // Getters and setters this is my firwt application  - ok hai we are good .
 }
